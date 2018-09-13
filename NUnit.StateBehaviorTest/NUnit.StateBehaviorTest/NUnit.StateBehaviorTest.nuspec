@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>NUnit.StateBehaviorTest</id>
+    <version>$version$</version>
+    <title>NUnit.StateBehaviorTest</title>
+    <authors>Vita7y</authors>
+    <owners>vitaly</owners>
+    <projectUrl>https://github.com/Vita7y/NUnit.StateBehaviorTest</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>States behavior tests with using NUnit</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>NUnit.StateBehaviorTest</tags>
+  </metadata>
+  <files>
+    <file src="bin\Release\**" target="build" />
+  </files>
+</package>
